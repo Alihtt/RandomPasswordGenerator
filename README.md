@@ -32,6 +32,11 @@
     Your password is:  j@<LTr`c
     ```
 
+## Clone with HTTPS
+```
+git clone https://github.com/Alihtt/Random-Password-Generator.git
+```
+
 ## Generating a password via following command
 ```
 python main.py
